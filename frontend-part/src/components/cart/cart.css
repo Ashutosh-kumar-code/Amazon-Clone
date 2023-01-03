@@ -1,0 +1,53 @@
+
+    .btn1{
+
+        padding-left: 50px;
+        padding-right: 50px;
+        border-radius: 20px;
+        background-color: rgb(249, 227, 35);
+        border: none;
+        padding: 7px 60px 7px 60px;
+        margin-right: 25px;
+    }
+
+    .btn2{
+       background-color: rgb(255, 170, 12);
+        padding-left: 50px;
+        padding-right: 50px;
+        border-radius: 20px;
+        border: none;
+        padding: 7px 80px 7px 80px;
+    }
+
+    .right_container{
+        padding:20px;
+        width: 550px;
+        border: 1px solid gray;
+        margin-top: 40px;
+
+    }
+    .product_container{
+
+        display: flex;
+        align-items:flex-end;
+        justify-content: space-evenly;
+       
+    }
+
+    .left_container{
+        /* display: flex;
+        flex-direction: column;
+        justify-content: center; */
+        /* margin-right: 50px; */
+        margin-top: 50px;
+    }
+
+    .left_container img{
+       height: 430px;
+
+    }
+
+    .crt_btn{
+
+        margin-top: 50px;
+    }
