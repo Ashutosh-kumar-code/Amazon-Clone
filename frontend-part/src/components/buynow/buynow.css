@@ -1,0 +1,109 @@
+.iteam_container  img{
+    width: 170px;
+    height: 200px;
+    margin-top: 20px;
+    /* margin-right: 70px;
+     */
+    margin-right: 30px;
+    margin-left: 20px;
+}
+
+.iteam_container{
+    border-top: 1px solid gray;
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+   
+}
+.left_buy p {
+    /* margin-left: 20px; */
+    font-size: 23px;
+    color: rgb(35, 118, 118);
+    font-weight: 400;
+    margin-bottom: 0;
+}
+.left_price{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 30px;
+    font-size: 20px;
+   color: rgb(103, 103, 103);
+}
+
+.product_tag img{
+
+     width: 90px;
+     height: 28px;
+    
+}
+.pregraph_d{
+
+     font-size:18px;
+     color: rgb(53, 52, 52);
+     font-weight: 600;
+}
+
+.iteam_details{
+
+    padding: 10px;
+}
+.para_title{
+
+    display: flex;
+    justify-content:center;
+    
+}
+.para_title h3{
+        padding-right:500px;
+}
+
+.add_remove_select{
+    display: flex;
+
+}
+
+.add_remove_select p{
+
+    font-size: 20px;
+    margin-right:20px;
+    margin-top: 10px;
+    
+    
+}
+
+.add_remove_select span{
+
+    padding-right: 40px;
+    padding-left: 30px;
+}
+
+
+.add_remove_select select{
+  border: none;
+  margin-right: 30px;
+  padding-left:  10px;
+  padding-right: 20px;
+  margin-top: 10px;
+  border-radius: 20px;
+  background-color: rgb(248, 245, 245);
+  box-shadow: 1px 1px rgb(197, 197, 197);
+}
+
+.upper_title {
+  padding-left: 20px;
+}
+
+.buynow_container{
+    margin-left:50px;
+    margin-right: 20px;
+    background-color: white;
+}
+body{
+    background-color: rgb(240, 238, 238);
+}
+
+.buy_section{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}

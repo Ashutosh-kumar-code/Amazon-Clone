@@ -1,0 +1,37 @@
+.cost_right{
+
+    border: 1px solid gray;
+    width: 300px;
+    padding: 15px;
+    background-color: white;
+    margin-top: 30px;
+    border: none;
+}
+
+.cost_right button{
+background-color: rgb(251, 201, 63);
+border: none;
+color:black;
+padding: 8px 80px 8px 80px;
+border-radius: 10px;
+ text-align: center;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+.cost_right p{
+
+    padding-top:20px;
+    color:  rgb(35, 118, 118);
+   font-weight: 500;
+}
+.emi{
+    border: 1px solid rgb(185, 185, 185);
+    text-align: start;
+    padding:7px ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.right_buy{
+    margin-right: 50px;
+}
